@@ -6,6 +6,7 @@ Below is a _list_ of my **technical skills**:
 - C and C++
 - Assembly
 - Python
+- R
 
 ## Collaboration
 - GitHub
